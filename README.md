@@ -1,2 +1,15 @@
-# Web3-Social-Log
-Web3-Social-Log
+# SocialFi Content Monetization (去中心化内容变现研究)
+
+本仓库用于记录我对去中心化社交协议（如 Lens, Farcaster）和内容代币化模型的分析。
+
+本仓库旨在：
+1.  追踪新的内容创作工具和创作者经济模型。
+2.  研究如何平衡言论自由和社区治理的挑战。
+
+---
+
+## 📱 查看每日 SocialFi 笔记
+
+所有最新的社交协议和内容模型研究都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
